@@ -10,7 +10,7 @@ ODIR = build
 # Include directories
 IDIR = .
 # Sources
-SOURCES = main
+SOURCES = main threads-manager
 # Libs
 CLIBS = -lpthread
 
